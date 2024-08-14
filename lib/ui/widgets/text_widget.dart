@@ -26,7 +26,7 @@ class TextWidget extends StatelessWidget {
       style: style ??
           TextStyle(
             color: textColor,
-            fontWeight: fontWeight ?? FontWeight.w600,
+            fontWeight: fontWeight ?? FontWeight.normal,
             fontFamily: fontFamily ?? 'Poppins',
             letterSpacing: 0.0,
             fontSize: fontSize ?? 15,
