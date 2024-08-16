@@ -1,10 +1,22 @@
-# shoe_ecommerce_mobile
+# Sneakers E-Commerce App UI
 
-A new Flutter project.
+## Screenshots
+
+<p>
+<img src="assets/read-me/IMG_6278.PNG" width="400"/> <img src="assets/read-me/IMG_6279.PNG" width="400"/>
+<img src="assets/read-me/IMG_6280.PNG" width="400"> 
+</p>
+
+## Video demonstration
+
+<p>
+<video width="400" controls>
+  <source src="assets/read-me/RPReplay_Final1723840545.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</p>
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 

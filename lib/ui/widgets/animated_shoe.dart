@@ -67,7 +67,7 @@ class _AnimatedShoeState extends State<AnimatedShoe>
           child: Opacity(
             opacity: 1 - _animation.value,
             child: SizedBox(
-              width: 100 * (1 - _animation.value),
+              width: 300 * (1 - _animation.value),
               child: CachedNetworkImage(
                 imageUrl: widget.imageUrl,
                 errorWidget: (context, url, error) => const Icon(Icons.error),

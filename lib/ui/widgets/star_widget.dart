@@ -2,10 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'text_widget.dart';
-
-class StarWidget extends StatefulWidget {
-  const StarWidget({
+class LikeWidget extends StatefulWidget {
+  const LikeWidget({
     super.key,
     required this.fct,
     required this.height,
@@ -19,10 +17,10 @@ class StarWidget extends StatefulWidget {
   final Color color;
 
   @override
-  State<StarWidget> createState() => _LButtonState();
+  State<LikeWidget> createState() => _LButtonState();
 }
 
-class _LButtonState extends State<StarWidget>
+class _LButtonState extends State<LikeWidget>
     with SingleTickerProviderStateMixin {
   late AnimationController _controller;
 
@@ -55,7 +53,7 @@ class _LButtonState extends State<StarWidget>
       child: ScaleTransition(
         scale: Tween<double>(
           begin: 1.0,
-          end: 0.95,
+          end: 0.7,
         ).animate(_controller),
         child: AnimatedContainer(
           duration: const Duration(milliseconds: 200),
@@ -66,7 +64,7 @@ class _LButtonState extends State<StarWidget>
             shape: BoxShape.circle,
           ),
           child: Icon(
-            CupertinoIcons.star_fill,
+            CupertinoIcons.heart_fill,
             size: 35,
             color: widget.color,
           ),
