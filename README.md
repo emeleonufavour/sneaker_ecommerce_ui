@@ -3,7 +3,7 @@
 ## Screenshots
 
 <p>
-<img src="assets/read-me/IMG_6278.PNG" width="400"/> <img src="assets/read-me/Screenshot 2024-08-16 at 9.25.02 PM.png" width="400"/>
+<img src="assets/read-me/IMG_6278.PNG" width="400"/> <img src="assets/read-me/IMG_6283.PNG" width="400"/>
 <img src="assets/read-me/IMG_6280.PNG" width="400"> 
 </p>
 
