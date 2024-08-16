@@ -3,7 +3,7 @@
 ## Screenshots
 
 <p>
-<img src="assets/read-me/IMG_6278.PNG" width="400"/> <img src="assets/read-me/IMG_6279.PNG" width="400"/>
+<img src="assets/read-me/IMG_6278.PNG" width="400"/> <img src="assets/read-me/Screenshot 2024-08-16 at 9.25.02 PM.png" width="400"/>
 <img src="assets/read-me/IMG_6280.PNG" width="400"> 
 </p>
 
@@ -11,14 +11,9 @@
 
 https://github.com/user-attachments/assets/cfbf3113-5eb6-4090-b71c-4c714ba74fe2
 
-
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
-
-
-
-
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
