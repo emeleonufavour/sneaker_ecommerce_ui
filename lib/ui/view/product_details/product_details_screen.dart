@@ -311,5 +311,3 @@ class SizeContainer extends StatelessWidget {
   }
 }
 
-// from this code, how do I animate a copy of the shoe to the cart icon
-//  in the app bar and then disappeear when the user adds it to cart
